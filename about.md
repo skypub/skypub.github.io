@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /关于/
 ---
 
 Some information about you!
 
-### More Information
+### 更多信息
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### 联系我
 
-[email@domain.com](mailto:email@domain.com)
+QQ群：1051795657
